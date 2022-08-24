@@ -1,0 +1,19 @@
+{
+  "name": "saga-web",
+  "version": "1.0.0",
+  "description": "Saga Worldbuilding Web Interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/croninkevinm/saga-web.git"
+  },
+  "author": "Kevin Cronin",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/croninkevinm/saga-web/issues"
+  },
+  "homepage": "https://github.com/croninkevinm/saga-web#readme"
+}
